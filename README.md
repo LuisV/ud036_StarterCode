@@ -2,6 +2,7 @@
 
 Program that creates an HTML file with my various favorite movies.
 The trailer plays upon clicking a movie poster.
+* Fresh tomatoes file used with permission from Udacity *
 
 ## Details ##
 
@@ -15,3 +16,4 @@ The trailer plays upon clicking a movie poster.
 - Your default web browser should open with the movie website page
 
 
+* All rights belong to their respective owners *
